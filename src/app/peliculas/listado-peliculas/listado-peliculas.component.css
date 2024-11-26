@@ -1,0 +1,12 @@
+.loader {
+    margin: 0 auto;
+    text-align: center;
+}
+.pelicula-container {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    border: 2px solid #000000;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
